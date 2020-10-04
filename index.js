@@ -14,7 +14,7 @@ let options = {
   functions: '',
   timeout: 6000,
   memory: 256,
-  path: '/.netlify/functions/'
+  path: '/api/'
 };
 
 // Disable auto updates of nim.
